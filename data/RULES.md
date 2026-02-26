@@ -1,0 +1,5 @@
+- en el frontend no uses los server actions de nextjs
+- intenta mantener separados componentes en varios archivos para reusabilidad
+- crea una carpeta donde se vayan guardando los archivos para hacer peticiones al cliente. Ejem: auth.api.ts, users.api.ts, etc
+- el proyecto de frontend es puramente web, todas las peticiones deberian llegar a la api.
+- el landing page deberia ser Static site generation
